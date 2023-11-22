@@ -5,7 +5,7 @@ Written Test I AQLI-Senior Research Associate I EPIC India
 
 This repository consists of two folders:
 1. AQLI Test Packet - This folder contains Task 1 data and output.
-2. AQLI Data Test - This folder contains Task 2 data and output.
+2. AQLI Data Test - This folder contains Task 2 data and output. (some outputs were not uploaded due to larger size but were shared separately)
 
 Other documents include:
 3. Krishnadas_Harisankar_RA.ipynb - Python codes for Task 1 and 2 in Jupyter Notebook format.
